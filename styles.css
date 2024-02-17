@@ -12,6 +12,9 @@
 }
 
 
+.body{
+  background-color: grey; 
+}
 
 .img-fluid{
   
@@ -19,4 +22,11 @@
   position: relative;
   margin: auto;
   text-align: center;
+  border-radius: 5%;
+
+
+}
+
+.justificar{
+  text-align: justify !important
 }
